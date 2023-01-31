@@ -1,0 +1,28 @@
+2022-05-09-103205  -- Start7c91362b-25d9-49f3-bd3c-90aeb102ed49
+2022-05-09-103205  -- chkStatus_true
+2022-05-09-103205  -- sp_GetTagItem_GrConfirm
+2022-05-09-103209  -- View_GoodsReceiveWithTag_V27c91362b-25d9-49f3-bd3c-90aeb102ed49
+2022-05-09-103210  -- updatePlanGRStatus7c91362b-25d9-49f3-bd3c-90aeb102ed49
+2022-05-09-103213  -- Clear UserAssign
+2022-05-09-103213  -- GoodsReceiveItemLocation
+2022-05-09-103213  -- BinBalance
+2022-05-09-103213  -- BinCard
+2022-05-09-103213  -- sp_Save_GoodsReceiveConfirm
+2022-05-09-103213  -- S.SaveChanges7c91362b-25d9-49f3-bd3c-90aeb102ed49
+2022-05-09-103220  -- E.SaveChanges7c91362b-25d9-49f3-bd3c-90aeb102ed49
+2022-05-09-103220  -- S.assignJobService7c91362b-25d9-49f3-bd3c-90aeb102ed49
+2022-05-09-104312  -- E.assignJobService7c91362b-25d9-49f3-bd3c-90aeb102ed49
+2022-05-09-134531  -- Startcb0f5038-1ed5-4bd5-84b8-8785097a6fee
+2022-05-09-134531  -- chkStatus_true
+2022-05-09-134531  -- sp_GetTagItem_GrConfirm
+2022-05-09-134535  -- View_GoodsReceiveWithTag_V2cb0f5038-1ed5-4bd5-84b8-8785097a6fee
+2022-05-09-134535  -- updatePlanGRStatuscb0f5038-1ed5-4bd5-84b8-8785097a6fee
+2022-05-09-134540  -- Clear UserAssign
+2022-05-09-134540  -- GoodsReceiveItemLocation
+2022-05-09-134540  -- BinBalance
+2022-05-09-134540  -- BinCard
+2022-05-09-134540  -- sp_Save_GoodsReceiveConfirm
+2022-05-09-134540  -- S.SaveChangescb0f5038-1ed5-4bd5-84b8-8785097a6fee
+2022-05-09-134542  -- E.SaveChangescb0f5038-1ed5-4bd5-84b8-8785097a6fee
+2022-05-09-134542  -- S.assignJobServicecb0f5038-1ed5-4bd5-84b8-8785097a6fee
+2022-05-09-134607  -- E.assignJobServicecb0f5038-1ed5-4bd5-84b8-8785097a6fee

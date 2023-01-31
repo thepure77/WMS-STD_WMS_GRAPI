@@ -1,0 +1,4 @@
+2563-01-20-094501  -- DropDownDocumentType ex Rollback Value cannot be null.
+Parameter name: entity
+2563-01-20-094511  -- DropDownDocumentType ex Rollback Value cannot be null.
+Parameter name: entity

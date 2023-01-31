@@ -1,0 +1,12 @@
+2020-06-17-164430  -- Start
+2020-06-17-164430  -- chkStatus_true
+2020-06-17-164430  -- sp_GetTagItem_GrConfirm
+2020-06-17-164552  -- Start ex Rollback The entity type 'WM_BinBalance' requires a primary key to be defined.
+2020-06-17-164628  -- Start
+2020-06-17-164628  -- chkStatus_true
+2020-06-17-164628  -- sp_GetTagItem_GrConfirm
+2020-06-17-164642  -- Clear UserAssign
+2020-06-17-164642  -- GoodsReceiveItemLocation
+2020-06-17-164642  -- BinBalance
+2020-06-17-164642  -- BinCard
+2020-06-17-164642  -- sp_Save_GoodsReceiveConfirm

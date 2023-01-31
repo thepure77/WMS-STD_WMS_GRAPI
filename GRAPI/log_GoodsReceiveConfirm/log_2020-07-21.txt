@@ -1,0 +1,8 @@
+2020-07-21-113536  -- Start
+2020-07-21-113537  -- chkStatus_true
+2020-07-21-113537  -- sp_GetTagItem_GrConfirm
+2020-07-21-113550  -- Clear UserAssign
+2020-07-21-113550  -- GoodsReceiveItemLocation
+2020-07-21-113550  -- BinBalance
+2020-07-21-113550  -- BinCard
+2020-07-21-113550  -- sp_Save_GoodsReceiveConfirm

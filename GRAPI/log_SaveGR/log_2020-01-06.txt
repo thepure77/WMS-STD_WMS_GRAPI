@@ -1,0 +1,17 @@
+2020-01-06-140226  -- DropDownDocumentType ex Rollback Value cannot be null.
+Parameter name: entity
+2020-01-06-140303  -- DropDownDocumentType ex Rollback Value cannot be null.
+Parameter name: entity
+2020-01-06-140414  -- IM_PlanGoodsReceive.Find ex Rollback An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseSqlServer' call.
+2020-01-06-140523  -- IM_PlanGoodsReceive.Find ex Rollback A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - No such host is known.)
+2020-01-06-140535  -- DropDownDocumentType ex Rollback Value cannot be null.
+Parameter name: entity
+2020-01-06-140545  -- DropDownDocumentType ex Rollback Value cannot be null.
+Parameter name: entity
+2020-01-06-140740  -- DropDownDocumentType ex Rollback Value cannot be null.
+Parameter name: entity
+2020-01-06-140817  -- DropDownDocumentType ex Rollback Value cannot be null.
+Parameter name: entity
+2020-01-06-143511  -- DropDownDocumentType ex Rollback This SqlTransaction has completed; it is no longer usable.
+2020-01-06-143547  -- DropDownDocumentType ex Rollback This SqlTransaction has completed; it is no longer usable.
+2020-01-06-143628  -- DropDownDocumentType ex Rollback This SqlTransaction has completed; it is no longer usable.

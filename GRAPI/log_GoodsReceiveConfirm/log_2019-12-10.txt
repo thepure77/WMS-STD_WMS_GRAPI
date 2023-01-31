@@ -1,0 +1,8 @@
+2019-12-10-154848  -- Start
+2019-12-10-154848  -- chkStatus_true
+2019-12-10-154848  -- sp_GetTagItem_GrConfirm
+2019-12-10-154910  -- Clear UserAssign
+2019-12-10-154912  -- GoodsReceiveItemLocation
+2019-12-10-154912  -- BinBalance
+2019-12-10-154912  -- BinCard
+2019-12-10-154912  -- sp_Save_GoodsReceiveConfirm

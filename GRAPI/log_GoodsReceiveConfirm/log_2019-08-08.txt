@@ -1,0 +1,24 @@
+2019-08-08-114959  -- Start
+2019-08-08-115006  -- chkStatus_true
+2019-08-08-115012  -- sp_GetTagItem
+2019-08-08-115105  -- Clear UserAssign
+2019-08-08-115113  -- listGoodsReceiveItemLocation
+2019-08-08-115114  -- listBinBalance
+2019-08-08-115115  -- listBinCard
+2019-08-08-115122  -- GoodsReceiveItemLocation
+2019-08-08-115124  -- BinBalance
+2019-08-08-115126  -- BinCard
+2019-08-08-115128  -- sp_Save_GoodsReceiveConfirm
+2019-08-08-115140  -- true
+2019-08-08-121151  -- Start
+2019-08-08-121151  -- chkStatus_true
+2019-08-08-121151  -- sp_GetTagItem
+2019-08-08-124115  -- Clear UserAssign
+2019-08-08-124115  -- listGoodsReceiveItemLocation
+2019-08-08-124115  -- listBinBalance
+2019-08-08-124115  -- listBinCard
+2019-08-08-124115  -- GoodsReceiveItemLocation
+2019-08-08-124115  -- BinBalance
+2019-08-08-124115  -- BinCard
+2019-08-08-124115  -- sp_Save_GoodsReceiveConfirm
+2019-08-08-132402  -- true

@@ -1,0 +1,8 @@
+2020-09-02-191209  -- Start
+2020-09-02-191209  -- chkStatus_true
+2020-09-02-191209  -- sp_GetTagItem_GrConfirm
+2020-09-02-191302  -- Clear UserAssign
+2020-09-02-191302  -- GoodsReceiveItemLocation
+2020-09-02-191302  -- BinBalance
+2020-09-02-191302  -- BinCard
+2020-09-02-191302  -- sp_Save_GoodsReceiveConfirm

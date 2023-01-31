@@ -1,0 +1,58 @@
+2020-06-19-132012  -- Start
+2020-06-19-132012  -- chkStatus_true
+2020-06-19-132012  -- sp_GetTagItem_GrConfirm
+2020-06-19-132043  -- Clear UserAssign
+2020-06-19-132043  -- GoodsReceiveItemLocation
+2020-06-19-132043  -- BinBalance
+2020-06-19-132043  -- BinCard
+2020-06-19-132043  -- sp_Save_GoodsReceiveConfirm
+2020-06-19-133630  -- Start
+2020-06-19-133630  -- chkStatus_true
+2020-06-19-133630  -- sp_GetTagItem_GrConfirm
+2020-06-19-133718  -- Start
+2020-06-19-133718  -- chkStatus_true
+2020-06-19-133718  -- sp_GetTagItem_GrConfirm
+2020-06-19-133914  -- Start
+2020-06-19-133914  -- chkStatus_true
+2020-06-19-133914  -- sp_GetTagItem_GrConfirm
+2020-06-19-133941  -- Start
+2020-06-19-133944  -- chkStatus_true
+2020-06-19-133944  -- sp_GetTagItem_GrConfirm
+2020-06-19-134605  -- Start
+2020-06-19-134605  -- chkStatus_true
+2020-06-19-134605  -- sp_GetTagItem_GrConfirm
+2020-06-19-134610  -- Clear UserAssign
+2020-06-19-134610  -- GoodsReceiveItemLocation
+2020-06-19-134610  -- BinBalance
+2020-06-19-134610  -- BinCard
+2020-06-19-134610  -- sp_Save_GoodsReceiveConfirm
+2020-06-19-134624  -- Start ex Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-06-19-135220  -- Start
+2020-06-19-135220  -- chkStatus_true
+2020-06-19-135220  -- sp_GetTagItem_GrConfirm
+2020-06-19-135223  -- Clear UserAssign
+2020-06-19-135223  -- GoodsReceiveItemLocation
+2020-06-19-135223  -- BinBalance
+2020-06-19-135223  -- BinCard
+2020-06-19-135223  -- sp_Save_GoodsReceiveConfirm
+2020-06-19-135235  -- Start ex Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-06-19-135439  -- Start
+2020-06-19-135439  -- chkStatus_true
+2020-06-19-135439  -- sp_GetTagItem_GrConfirm
+2020-06-19-135444  -- Clear UserAssign
+2020-06-19-135444  -- GoodsReceiveItemLocation
+2020-06-19-135444  -- BinBalance
+2020-06-19-135444  -- BinCard
+2020-06-19-135444  -- sp_Save_GoodsReceiveConfirm
+2020-06-19-135452  -- Start ex Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-06-19-135613  -- Start
+2020-06-19-135613  -- chkStatus_true
+2020-06-19-135613  -- sp_GetTagItem_GrConfirm
+2020-06-19-135618  -- Clear UserAssign
+2020-06-19-135618  -- GoodsReceiveItemLocation
+2020-06-19-135618  -- BinBalance
+2020-06-19-135618  -- BinCard
+2020-06-19-135618  -- sp_Save_GoodsReceiveConfirm
+2020-06-19-135632  -- Start ex Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-06-19-135822  -- Start
+2020-06-19-135822  -- chkStatus_fasle

@@ -1,0 +1,148 @@
+2019-11-21-103422  -- Start
+2019-11-21-103422  -- chkStatus_true
+2019-11-21-103422  -- sp_GetTagItem_GrConfirm
+2019-11-21-103424  -- Start ex Rollback One or more errors occurred. (No connection could be made because the target machine actively refused it)
+2019-11-21-103452  -- Start
+2019-11-21-103452  -- chkStatus_true
+2019-11-21-103452  -- sp_GetTagItem_GrConfirm
+2019-11-21-103454  -- Start ex Rollback One or more errors occurred. (No connection could be made because the target machine actively refused it)
+2019-11-21-103504  -- Start
+2019-11-21-103519  -- chkStatus_true
+2019-11-21-103520  -- sp_GetTagItem_GrConfirm
+2019-11-21-103653  -- Start ex Rollback One or more errors occurred. (No connection could be made because the target machine actively refused it)
+2019-11-21-103702  -- Start
+2019-11-21-103702  -- chkStatus_true
+2019-11-21-103702  -- sp_GetTagItem_GrConfirm
+2019-11-21-103820  -- Start ex Rollback Object reference not set to an instance of an object.
+2019-11-21-103826  -- Start
+2019-11-21-103826  -- chkStatus_true
+2019-11-21-103826  -- sp_GetTagItem_GrConfirm
+2019-11-21-103836  -- Start ex Rollback Object reference not set to an instance of an object.
+2019-11-21-103844  -- Start
+2019-11-21-103844  -- chkStatus_true
+2019-11-21-103844  -- sp_GetTagItem_GrConfirm
+2019-11-21-104554  -- Start ex Rollback One or more errors occurred. (A task was canceled.)
+2019-11-21-105003  -- Start
+2019-11-21-105003  -- chkStatus_true
+2019-11-21-105003  -- sp_GetTagItem_GrConfirm
+2019-11-21-105117  -- Start ex Rollback Object reference not set to an instance of an object.
+2019-11-21-105123  -- Start
+2019-11-21-105123  -- chkStatus_true
+2019-11-21-105123  -- sp_GetTagItem_GrConfirm
+2019-11-21-105126  -- Start ex Rollback Object reference not set to an instance of an object.
+2019-11-21-105140  -- Start
+2019-11-21-105140  -- chkStatus_true
+2019-11-21-105140  -- sp_GetTagItem_GrConfirm
+2019-11-21-105459  -- Start
+2019-11-21-105459  -- chkStatus_true
+2019-11-21-105459  -- sp_GetTagItem_GrConfirm
+2019-11-21-105540  -- Start ex Rollback Object reference not set to an instance of an object.
+2019-11-21-111158  -- Start
+2019-11-21-111158  -- chkStatus_true
+2019-11-21-111158  -- sp_GetTagItem_GrConfirm
+2019-11-21-111220  -- Start ex Rollback Object reference not set to an instance of an object.
+2019-11-21-111548  -- Start
+2019-11-21-111548  -- chkStatus_true
+2019-11-21-111548  -- sp_GetTagItem_GrConfirm
+2019-11-21-111558  -- Start
+2019-11-21-111601  -- chkStatus_true
+2019-11-21-111601  -- sp_GetTagItem_GrConfirm
+2019-11-21-111700  -- Start
+2019-11-21-111702  -- chkStatus_true
+2019-11-21-111703  -- sp_GetTagItem_GrConfirm
+2019-11-21-113132  -- Clear UserAssign
+2019-11-21-113132  -- GoodsReceiveItemLocation
+2019-11-21-113132  -- BinBalance
+2019-11-21-113132  -- BinCard
+2019-11-21-113132  -- sp_Save_GoodsReceiveConfirm
+2019-11-21-114136  -- Start
+2019-11-21-114136  -- chkStatus_true
+2019-11-21-114136  -- sp_GetTagItem_GrConfirm
+2019-11-21-114256  -- Clear UserAssign
+2019-11-21-114256  -- GoodsReceiveItemLocation
+2019-11-21-114256  -- BinBalance
+2019-11-21-114256  -- BinCard
+2019-11-21-114256  -- sp_Save_GoodsReceiveConfirm
+2019-11-21-132659  -- Start
+2019-11-21-132659  -- chkStatus_true
+2019-11-21-132659  -- sp_GetTagItem_GrConfirm
+2019-11-21-132706  -- Clear UserAssign
+2019-11-21-132706  -- GoodsReceiveItemLocation
+2019-11-21-132707  -- BinBalance
+2019-11-21-132707  -- BinCard
+2019-11-21-132707  -- sp_Save_GoodsReceiveConfirm
+2019-11-21-140343  -- Start
+2019-11-21-140343  -- chkStatus_true
+2019-11-21-140343  -- sp_GetTagItem_GrConfirm
+2019-11-21-140407  -- Start ex Rollback Object reference not set to an instance of an object.
+2019-11-21-140423  -- Start
+2019-11-21-140423  -- chkStatus_true
+2019-11-21-140423  -- sp_GetTagItem_GrConfirm
+2019-11-21-140429  -- Start ex Rollback Object reference not set to an instance of an object.
+2019-11-21-140434  -- Start
+2019-11-21-140435  -- chkStatus_true
+2019-11-21-140435  -- sp_GetTagItem_GrConfirm
+2019-11-21-140443  -- Start ex Rollback Object reference not set to an instance of an object.
+2019-11-21-144533  -- Start
+2019-11-21-144533  -- chkStatus_true
+2019-11-21-144533  -- sp_GetTagItem_GrConfirm
+2019-11-21-144610  -- Clear UserAssign
+2019-11-21-144610  -- GoodsReceiveItemLocation
+2019-11-21-144610  -- BinBalance
+2019-11-21-144610  -- BinCard
+2019-11-21-144610  -- sp_Save_GoodsReceiveConfirm
+2019-11-21-155630  -- Start
+2019-11-21-155630  -- chkStatus_true
+2019-11-21-155630  -- sp_GetTagItem_GrConfirm
+2019-11-21-155700  -- Start
+2019-11-21-155700  -- chkStatus_true
+2019-11-21-155700  -- sp_GetTagItem_GrConfirm
+2019-11-21-155720  -- Start
+2019-11-21-155720  -- chkStatus_true
+2019-11-21-155720  -- sp_GetTagItem_GrConfirm
+2019-11-21-155744  -- Clear UserAssign
+2019-11-21-155744  -- GoodsReceiveItemLocation
+2019-11-21-155744  -- BinBalance
+2019-11-21-155744  -- BinCard
+2019-11-21-155744  -- sp_Save_GoodsReceiveConfirm
+2019-11-21-170200  -- Start
+2019-11-21-170200  -- chkStatus_true
+2019-11-21-170200  -- sp_GetTagItem_GrConfirm
+2019-11-21-170234  -- Clear UserAssign
+2019-11-21-170234  -- GoodsReceiveItemLocation
+2019-11-21-170234  -- BinBalance
+2019-11-21-170234  -- BinCard
+2019-11-21-170234  -- sp_Save_GoodsReceiveConfirm
+2019-11-21-170345  -- Start
+2019-11-21-170345  -- chkStatus_true
+2019-11-21-170345  -- sp_GetTagItem_GrConfirm
+2019-11-21-170433  -- Start ex Rollback Error converting value False to type 'System.Collections.Generic.List`1[GRBusiness.ConfigModel.LocationViewModel]'. Path '', line 1, position 5.
+2019-11-21-170605  -- Start
+2019-11-21-170605  -- chkStatus_true
+2019-11-21-170605  -- sp_GetTagItem_GrConfirm
+2019-11-21-170625  -- Start ex Rollback Error converting value False to type 'System.Collections.Generic.List`1[GRBusiness.PlanGoodsReceive.PlanGoodsReceiveDocViewModel]'. Path '', line 1, position 5.
+2019-11-21-170633  -- Start
+2019-11-21-170634  -- chkStatus_true
+2019-11-21-170634  -- sp_GetTagItem_GrConfirm
+2019-11-21-170740  -- Start
+2019-11-21-170741  -- chkStatus_true
+2019-11-21-170741  -- sp_GetTagItem_GrConfirm
+2019-11-21-170801  -- Start ex Rollback Error converting value False to type 'GRBusiness.PlanGoodsReceive.PlanGoodsReceiveDocViewModel'. Path '', line 1, position 5.
+2019-11-21-171005  -- Start
+2019-11-21-171005  -- chkStatus_true
+2019-11-21-171005  -- sp_GetTagItem_GrConfirm
+2019-11-21-171050  -- Start ex Rollback Error converting value True to type 'GRBusiness.PlanGoodsReceive.PlanGoodsReceiveViewModel'. Path '', line 1, position 4.
+2019-11-21-171132  -- Start
+2019-11-21-171132  -- chkStatus_true
+2019-11-21-171132  -- sp_GetTagItem_GrConfirm
+2019-11-21-171236  -- Start ex Rollback Error converting value True to type 'GRBusiness.PlanGoodsReceive.PlanGoodsReceiveViewModel'. Path '', line 1, position 4.
+2019-11-21-171327  -- Start
+2019-11-21-171327  -- chkStatus_true
+2019-11-21-171327  -- sp_GetTagItem_GrConfirm
+2019-11-21-171343  -- Clear UserAssign
+2019-11-21-171343  -- GoodsReceiveItemLocation
+2019-11-21-171343  -- BinBalance
+2019-11-21-171343  -- BinCard
+2019-11-21-171343  -- sp_Save_GoodsReceiveConfirm
+2019-11-21-171618  -- Start
+2019-11-21-171622  -- chkStatus_fasle

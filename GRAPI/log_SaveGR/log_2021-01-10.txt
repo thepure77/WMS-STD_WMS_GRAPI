@@ -1,0 +1,9 @@
+2021-01-10-091816  -- itemDetail ex Rollback Value cannot be null.
+Parameter name: input
+2021-01-10-091928  -- itemDetail ex Rollback Object reference not set to an instance of an object.
+2021-01-10-092029  -- itemDetail ex Rollback Value cannot be null.
+Parameter name: input
+2021-01-10-092138  -- SaveChanges exy Rollback An error occurred while updating the entries. See the inner exception for details.
+2021-01-10-092139  -- SaveChanges ex Rollback An error occurred while updating the entries. See the inner exception for details.
+2021-01-10-092332  -- SaveChanges exy Rollback An error occurred while updating the entries. See the inner exception for details.
+2021-01-10-092332  -- SaveChanges ex Rollback An error occurred while updating the entries. See the inner exception for details.

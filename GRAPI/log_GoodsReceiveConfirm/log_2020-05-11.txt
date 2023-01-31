@@ -1,0 +1,44 @@
+2020-05-11-090807  -- Start
+2020-05-11-090808  -- chkStatus_true
+2020-05-11-090809  -- sp_GetTagItem_GrConfirm
+2020-05-11-090816  -- Start ex Rollback Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[GRBusiness.ConfigModel.ProductModel]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'ClassName', line 1, position 13.
+2020-05-11-090827  -- Start
+2020-05-11-090828  -- chkStatus_true
+2020-05-11-090828  -- sp_GetTagItem_GrConfirm
+2020-05-11-090828  -- Start ex Rollback Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[GRBusiness.ConfigModel.ProductModel]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'ClassName', line 1, position 13.
+2020-05-11-090835  -- Start
+2020-05-11-090836  -- chkStatus_true
+2020-05-11-090836  -- sp_GetTagItem_GrConfirm
+2020-05-11-090853  -- Start ex Rollback Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[GRBusiness.ConfigModel.ProductModel]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'ClassName', line 1, position 13.
+2020-05-11-090859  -- Start
+2020-05-11-090859  -- chkStatus_true
+2020-05-11-090859  -- sp_GetTagItem_GrConfirm
+2020-05-11-090935  -- Start ex Rollback Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[GRBusiness.ConfigModel.ProductModel]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'ClassName', line 1, position 13.
+2020-05-11-091317  -- Start
+2020-05-11-091317  -- chkStatus_true
+2020-05-11-091317  -- sp_GetTagItem_GrConfirm
+2020-05-11-091333  -- Start ex Rollback Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[GRBusiness.ConfigModel.ProductModel]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'ClassName', line 1, position 13.
+2020-05-11-091337  -- Start
+2020-05-11-091338  -- chkStatus_true
+2020-05-11-091338  -- sp_GetTagItem_GrConfirm
+2020-05-11-091355  -- Start ex Rollback Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[GRBusiness.ConfigModel.ProductModel]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'ClassName', line 1, position 13.
+2020-05-11-091457  -- Start
+2020-05-11-091458  -- chkStatus_true
+2020-05-11-091458  -- sp_GetTagItem_GrConfirm
+2020-05-11-091524  -- Clear UserAssign
+2020-05-11-091524  -- GoodsReceiveItemLocation
+2020-05-11-091524  -- BinBalance
+2020-05-11-091524  -- BinCard
+2020-05-11-091524  -- sp_Save_GoodsReceiveConfirm

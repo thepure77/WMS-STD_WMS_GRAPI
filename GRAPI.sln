@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GRAPI", "GRAPI\GRAPI.csproj", "{A5BCA2CE-4728-4646-B12C-10B36D4AAF32}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GRBusiness", "GRBusiness\GRBusiness.csproj", "{8373A801-842B-4A6C-ACD3-4F90AABD5594}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GRDataAccess", "GRDataAccess\GRDataAccess.csproj", "{DAA206CC-E465-42C8-A7D8-F9BED47805AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{361BA01B-780A-4BA9-A62B-DCF4F549C301}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GRBusiness.Test", "GRBusiness.Test\GRBusiness.Test.csproj", "{737EFA28-E193-48FB-8DD8-837DE1932F1F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GRDataAccessBalance", "GRDataAccessBalance\GRDataAccessBalance.csproj", "{DCF898E3-BF93-4012-BCB1-00C42CFB218C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{36F090E0-2BD6-4D29-89F5-C535EBDDAEFC}"
+	ProjectSection(SolutionItems) = preProject
+		.dockerignore = .dockerignore
+		Dockerfile = Dockerfile
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GRDataAccessBom", "GRDataAccessBom\GRDataAccessBom.csproj", "{BAFE0972-E5FD-4BBE-A907-AC92236D68B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5BCA2CE-4728-4646-B12C-10B36D4AAF32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5BCA2CE-4728-4646-B12C-10B36D4AAF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5BCA2CE-4728-4646-B12C-10B36D4AAF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5BCA2CE-4728-4646-B12C-10B36D4AAF32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8373A801-842B-4A6C-ACD3-4F90AABD5594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8373A801-842B-4A6C-ACD3-4F90AABD5594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8373A801-842B-4A6C-ACD3-4F90AABD5594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8373A801-842B-4A6C-ACD3-4F90AABD5594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAA206CC-E465-42C8-A7D8-F9BED47805AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA206CC-E465-42C8-A7D8-F9BED47805AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA206CC-E465-42C8-A7D8-F9BED47805AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA206CC-E465-42C8-A7D8-F9BED47805AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{737EFA28-E193-48FB-8DD8-837DE1932F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737EFA28-E193-48FB-8DD8-837DE1932F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737EFA28-E193-48FB-8DD8-837DE1932F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737EFA28-E193-48FB-8DD8-837DE1932F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCF898E3-BF93-4012-BCB1-00C42CFB218C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF898E3-BF93-4012-BCB1-00C42CFB218C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF898E3-BF93-4012-BCB1-00C42CFB218C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF898E3-BF93-4012-BCB1-00C42CFB218C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAFE0972-E5FD-4BBE-A907-AC92236D68B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFE0972-E5FD-4BBE-A907-AC92236D68B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFE0972-E5FD-4BBE-A907-AC92236D68B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFE0972-E5FD-4BBE-A907-AC92236D68B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{737EFA28-E193-48FB-8DD8-837DE1932F1F} = {361BA01B-780A-4BA9-A62B-DCF4F549C301}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A76C86C-9D5C-45B3-B8FC-A752B52A0213}
+	EndGlobalSection
+EndGlobal

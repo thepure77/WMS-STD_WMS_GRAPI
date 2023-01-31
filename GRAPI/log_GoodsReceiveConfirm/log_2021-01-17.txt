@@ -1,0 +1,8 @@
+2021-01-17-165814  -- Start
+2021-01-17-165814  -- chkStatus_true
+2021-01-17-165814  -- sp_GetTagItem_GrConfirm
+2021-01-17-165819  -- Clear UserAssign
+2021-01-17-165819  -- GoodsReceiveItemLocation
+2021-01-17-165819  -- BinBalance
+2021-01-17-165819  -- BinCard
+2021-01-17-165819  -- sp_Save_GoodsReceiveConfirm

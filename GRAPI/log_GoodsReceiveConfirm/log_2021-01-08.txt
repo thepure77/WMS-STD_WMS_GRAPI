@@ -1,0 +1,24 @@
+2021-01-08-093055  -- Start
+2021-01-08-093055  -- chkStatus_true
+2021-01-08-093055  -- sp_GetTagItem_GrConfirm
+2021-01-08-093057  -- Clear UserAssign
+2021-01-08-093057  -- GoodsReceiveItemLocation
+2021-01-08-093057  -- BinBalance
+2021-01-08-093057  -- BinCard
+2021-01-08-093057  -- sp_Save_GoodsReceiveConfirm
+2021-01-08-093226  -- Start
+2021-01-08-093226  -- chkStatus_true
+2021-01-08-093226  -- sp_GetTagItem_GrConfirm
+2021-01-08-093227  -- Clear UserAssign
+2021-01-08-093227  -- GoodsReceiveItemLocation
+2021-01-08-093227  -- BinBalance
+2021-01-08-093227  -- BinCard
+2021-01-08-093227  -- sp_Save_GoodsReceiveConfirm
+2021-01-08-104320  -- Start
+2021-01-08-104320  -- chkStatus_true
+2021-01-08-104320  -- sp_GetTagItem_GrConfirm
+2021-01-08-104322  -- Clear UserAssign
+2021-01-08-104322  -- GoodsReceiveItemLocation
+2021-01-08-104322  -- BinBalance
+2021-01-08-104322  -- BinCard
+2021-01-08-104322  -- sp_Save_GoodsReceiveConfirm

@@ -1,0 +1,13 @@
+2020-03-24-103651  -- SaveChanges exy Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-03-24-103651  -- SaveChanges ex Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-03-24-103756  -- SaveChanges exy Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-03-24-103756  -- SaveChanges ex Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-03-24-110427  -- SaveChanges exy Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-03-24-110427  -- SaveChanges ex Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-03-24-110458  -- SaveChanges exy Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-03-24-110458  -- SaveChanges ex Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-03-24-110833  -- SaveChanges exy Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-03-24-110833  -- SaveChanges ex Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-03-24-111958  -- itemDetail ex Rollback Object reference not set to an instance of an object.
+2020-03-24-112023  -- itemDetail ex Rollback Object reference not set to an instance of an object.
+2020-03-24-112036  -- itemDetail ex Rollback Object reference not set to an instance of an object.

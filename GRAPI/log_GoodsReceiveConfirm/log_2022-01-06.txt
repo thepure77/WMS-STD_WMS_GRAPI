@@ -1,0 +1,26 @@
+2022-01-06-113426  -- Start4c9803a8-3e5c-499c-9428-7ba3c98c92e7
+2022-01-06-113426  -- chkStatus_true
+2022-01-06-113426  -- sp_GetTagItem_GrConfirm
+2022-01-06-113429  -- View_GoodsReceiveWithTag_V24c9803a8-3e5c-499c-9428-7ba3c98c92e7
+2022-01-06-113429  -- Clear UserAssign
+2022-01-06-113429  -- GoodsReceiveItemLocation
+2022-01-06-113429  -- BinBalance
+2022-01-06-113429  -- BinCard
+2022-01-06-113429  -- sp_Save_GoodsReceiveConfirm
+2022-01-06-113429  -- S.SaveChanges4c9803a8-3e5c-499c-9428-7ba3c98c92e7
+2022-01-06-113432  -- E.SaveChanges4c9803a8-3e5c-499c-9428-7ba3c98c92e7
+2022-01-06-113432  -- S.assignJobService4c9803a8-3e5c-499c-9428-7ba3c98c92e7
+2022-01-06-113440  -- E.assignJobService4c9803a8-3e5c-499c-9428-7ba3c98c92e7
+2022-01-06-113548  -- Start9846d4d7-e34a-4521-ba34-f7e95bbb9127
+2022-01-06-113548  -- chkStatus_true
+2022-01-06-113548  -- sp_GetTagItem_GrConfirm
+2022-01-06-113556  -- View_GoodsReceiveWithTag_V29846d4d7-e34a-4521-ba34-f7e95bbb9127
+2022-01-06-113556  -- Clear UserAssign
+2022-01-06-113556  -- GoodsReceiveItemLocation
+2022-01-06-113556  -- BinBalance
+2022-01-06-113556  -- BinCard
+2022-01-06-113556  -- sp_Save_GoodsReceiveConfirm
+2022-01-06-113556  -- S.SaveChanges9846d4d7-e34a-4521-ba34-f7e95bbb9127
+2022-01-06-113610  -- E.SaveChanges9846d4d7-e34a-4521-ba34-f7e95bbb9127
+2022-01-06-113612  -- S.assignJobService9846d4d7-e34a-4521-ba34-f7e95bbb9127
+2022-01-06-113625  -- E.assignJobService9846d4d7-e34a-4521-ba34-f7e95bbb9127

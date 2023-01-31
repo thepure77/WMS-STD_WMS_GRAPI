@@ -1,0 +1,51 @@
+2020-05-27-182827  -- Start
+2020-05-27-182835  -- chkStatus_true
+2020-05-27-182837  -- sp_GetTagItem_GrConfirm
+2020-05-27-183122  -- Clear UserAssign
+2020-05-27-183124  -- GoodsReceiveItemLocation
+2020-05-27-183124  -- BinBalance
+2020-05-27-183126  -- BinCard
+2020-05-27-183126  -- sp_Save_GoodsReceiveConfirm
+2020-05-27-183310  -- Start
+2020-05-27-183310  -- chkStatus_true
+2020-05-27-183310  -- sp_GetTagItem_GrConfirm
+2020-05-27-183313  -- Clear UserAssign
+2020-05-27-183313  -- GoodsReceiveItemLocation
+2020-05-27-183313  -- BinBalance
+2020-05-27-183313  -- BinCard
+2020-05-27-183313  -- sp_Save_GoodsReceiveConfirm
+2020-05-27-183323  -- Start ex Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-05-27-183417  -- Start
+2020-05-27-183417  -- chkStatus_true
+2020-05-27-183417  -- sp_GetTagItem_GrConfirm
+2020-05-27-183421  -- Clear UserAssign
+2020-05-27-183421  -- GoodsReceiveItemLocation
+2020-05-27-183421  -- BinBalance
+2020-05-27-183421  -- BinCard
+2020-05-27-183421  -- sp_Save_GoodsReceiveConfirm
+2020-05-27-183606  -- Start
+2020-05-27-183607  -- chkStatus_true
+2020-05-27-183607  -- sp_GetTagItem_GrConfirm
+2020-05-27-183610  -- Clear UserAssign
+2020-05-27-183610  -- GoodsReceiveItemLocation
+2020-05-27-183610  -- BinBalance
+2020-05-27-183610  -- BinCard
+2020-05-27-183610  -- sp_Save_GoodsReceiveConfirm
+2020-05-27-183617  -- Start ex Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-05-27-183943  -- Start
+2020-05-27-183944  -- chkStatus_true
+2020-05-27-183944  -- sp_GetTagItem_GrConfirm
+2020-05-27-183946  -- Clear UserAssign
+2020-05-27-183946  -- GoodsReceiveItemLocation
+2020-05-27-183946  -- BinBalance
+2020-05-27-183946  -- BinCard
+2020-05-27-183946  -- sp_Save_GoodsReceiveConfirm
+2020-05-27-184009  -- Start ex Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-05-27-184133  -- Start
+2020-05-27-184133  -- chkStatus_true
+2020-05-27-184133  -- sp_GetTagItem_GrConfirm
+2020-05-27-184137  -- Clear UserAssign
+2020-05-27-184137  -- GoodsReceiveItemLocation
+2020-05-27-184137  -- BinBalance
+2020-05-27-184137  -- BinCard
+2020-05-27-184137  -- sp_Save_GoodsReceiveConfirm

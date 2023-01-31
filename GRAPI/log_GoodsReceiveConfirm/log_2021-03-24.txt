@@ -1,0 +1,56 @@
+2021-03-24-115907  -- Start
+2021-03-24-115907  -- chkStatus_true
+2021-03-24-115907  -- sp_GetTagItem_GrConfirm
+2021-03-24-115909  -- Clear UserAssign
+2021-03-24-115909  -- GoodsReceiveItemLocation
+2021-03-24-115909  -- BinBalance
+2021-03-24-115909  -- BinCard
+2021-03-24-115909  -- sp_Save_GoodsReceiveConfirm
+2021-03-24-132629  -- Start
+2021-03-24-132629  -- chkStatus_true
+2021-03-24-132629  -- sp_GetTagItem_GrConfirm
+2021-03-24-132631  -- Clear UserAssign
+2021-03-24-132631  -- GoodsReceiveItemLocation
+2021-03-24-132631  -- BinBalance
+2021-03-24-132631  -- BinCard
+2021-03-24-132631  -- sp_Save_GoodsReceiveConfirm
+2021-03-24-133311  -- Start
+2021-03-24-133311  -- chkStatus_true
+2021-03-24-133311  -- sp_GetTagItem_GrConfirm
+2021-03-24-133312  -- Clear UserAssign
+2021-03-24-133312  -- GoodsReceiveItemLocation
+2021-03-24-133312  -- BinBalance
+2021-03-24-133312  -- BinCard
+2021-03-24-133312  -- sp_Save_GoodsReceiveConfirm
+2021-03-24-134713  -- Start
+2021-03-24-134713  -- chkStatus_true
+2021-03-24-134713  -- sp_GetTagItem_GrConfirm
+2021-03-24-134713  -- Clear UserAssign
+2021-03-24-134713  -- GoodsReceiveItemLocation
+2021-03-24-134713  -- BinBalance
+2021-03-24-134713  -- BinCard
+2021-03-24-134713  -- sp_Save_GoodsReceiveConfirm
+2021-03-24-140714  -- Start
+2021-03-24-140714  -- chkStatus_true
+2021-03-24-140714  -- sp_GetTagItem_GrConfirm
+2021-03-24-140715  -- Clear UserAssign
+2021-03-24-140715  -- GoodsReceiveItemLocation
+2021-03-24-140715  -- BinBalance
+2021-03-24-140715  -- BinCard
+2021-03-24-140715  -- sp_Save_GoodsReceiveConfirm
+2021-03-24-162744  -- Start
+2021-03-24-162744  -- chkStatus_true
+2021-03-24-162744  -- sp_GetTagItem_GrConfirm
+2021-03-24-162746  -- Clear UserAssign
+2021-03-24-162746  -- GoodsReceiveItemLocation
+2021-03-24-162746  -- BinBalance
+2021-03-24-162746  -- BinCard
+2021-03-24-162746  -- sp_Save_GoodsReceiveConfirm
+2021-03-24-171250  -- Start
+2021-03-24-171250  -- chkStatus_true
+2021-03-24-171250  -- sp_GetTagItem_GrConfirm
+2021-03-24-171251  -- Clear UserAssign
+2021-03-24-171251  -- GoodsReceiveItemLocation
+2021-03-24-171251  -- BinBalance
+2021-03-24-171251  -- BinCard
+2021-03-24-171251  -- sp_Save_GoodsReceiveConfirm

@@ -1,0 +1,8 @@
+2019-12-25-175824  -- SaveChanges exy Rollback An error occurred while updating the entries. See the inner exception for details.
+2019-12-25-175824  -- SaveChanges ex Rollback An error occurred while updating the entries. See the inner exception for details.
+2019-12-25-175832  -- SaveChanges exy Rollback An error occurred while updating the entries. See the inner exception for details.
+2019-12-25-175832  -- SaveChanges ex Rollback An error occurred while updating the entries. See the inner exception for details.
+2019-12-25-175931  -- SaveChanges exy Rollback An error occurred while updating the entries. See the inner exception for details.
+2019-12-25-175931  -- SaveChanges ex Rollback An error occurred while updating the entries. See the inner exception for details.
+2019-12-25-180411  -- SaveChanges exy Rollback Database operation expected to affect 1 row(s) but actually affected 0 row(s). Data may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=527962 for information on understanding and handling optimistic concurrency exceptions.
+2019-12-25-180411  -- SaveChanges ex Rollback Database operation expected to affect 1 row(s) but actually affected 0 row(s). Data may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=527962 for information on understanding and handling optimistic concurrency exceptions.

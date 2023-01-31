@@ -1,0 +1,16 @@
+2020-07-15-151103  -- Start
+2020-07-15-151103  -- chkStatus_true
+2020-07-15-151103  -- sp_GetTagItem_GrConfirm
+2020-07-15-151107  -- Clear UserAssign
+2020-07-15-151107  -- GoodsReceiveItemLocation
+2020-07-15-151107  -- BinBalance
+2020-07-15-151107  -- BinCard
+2020-07-15-151107  -- sp_Save_GoodsReceiveConfirm
+2020-07-15-162711  -- Start
+2020-07-15-162712  -- chkStatus_true
+2020-07-15-162712  -- sp_GetTagItem_GrConfirm
+2020-07-15-162716  -- Clear UserAssign
+2020-07-15-162716  -- GoodsReceiveItemLocation
+2020-07-15-162716  -- BinBalance
+2020-07-15-162716  -- BinCard
+2020-07-15-162716  -- sp_Save_GoodsReceiveConfirm

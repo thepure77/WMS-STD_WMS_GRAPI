@@ -1,0 +1,15 @@
+2020-03-23-134024  -- SaveChanges exy Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-03-23-134024  -- SaveChanges ex Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-03-23-134236  -- SaveChanges exy Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-03-23-134236  -- SaveChanges ex Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-03-23-134359  -- SaveChanges exy Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-03-23-134359  -- SaveChanges ex Rollback An error occurred while updating the entries. See the inner exception for details.
+2020-03-23-170728  -- itemHeader ex Rollback Value cannot be null.
+Parameter name: s
+2020-03-23-170744  -- itemHeader ex Rollback Value cannot be null.
+Parameter name: s
+2020-03-23-171131  -- itemHeader ex Rollback The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2020-03-23-171204  -- itemHeader ex Rollback The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2020-03-23-171358  -- itemHeader ex Rollback The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2020-03-23-171535  -- itemDetail ex Rollback Object reference not set to an instance of an object.
+2020-03-23-172525  -- itemHeader ex Rollback The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.

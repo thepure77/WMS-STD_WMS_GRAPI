@@ -1,0 +1,16 @@
+2562-12-24-100428  -- Start
+2562-12-24-100428  -- chkStatus_true
+2562-12-24-100428  -- sp_GetTagItem_GrConfirm
+2562-12-24-100429  -- Clear UserAssign
+2562-12-24-100429  -- GoodsReceiveItemLocation
+2562-12-24-100429  -- BinBalance
+2562-12-24-100429  -- BinCard
+2562-12-24-100429  -- sp_Save_GoodsReceiveConfirm
+2562-12-24-123609  -- Start
+2562-12-24-123609  -- chkStatus_true
+2562-12-24-123609  -- sp_GetTagItem_GrConfirm
+2562-12-24-123614  -- Clear UserAssign
+2562-12-24-123614  -- GoodsReceiveItemLocation
+2562-12-24-123614  -- BinBalance
+2562-12-24-123614  -- BinCard
+2562-12-24-123614  -- sp_Save_GoodsReceiveConfirm

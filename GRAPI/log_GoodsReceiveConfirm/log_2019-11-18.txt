@@ -1,0 +1,101 @@
+2019-11-18-114222  -- Start
+2019-11-18-114222  -- Start ex Rollback Invalid column name 'ProcessStatus_Name'.
+2019-11-18-114536  -- Start
+2019-11-18-114541  -- chkStatus_true
+2019-11-18-114542  -- sp_GetTagItem_GrConfirm
+2019-11-18-114611  -- Start ex Rollback Could not find stored procedure 'sp_GetLocationConfirmGR'.
+2019-11-18-114803  -- Start
+2019-11-18-114806  -- chkStatus_true
+2019-11-18-114806  -- sp_GetTagItem_GrConfirm
+2019-11-18-115733  -- Start
+2019-11-18-115736  -- chkStatus_true
+2019-11-18-115736  -- sp_GetTagItem_GrConfirm
+2019-11-18-115826  -- Clear UserAssign
+2019-11-18-115826  -- listGoodsReceiveItemLocation
+2019-11-18-115827  -- listBinBalance
+2019-11-18-115827  -- listBinCard
+2019-11-18-115828  -- GoodsReceiveItemLocation
+2019-11-18-115828  -- BinBalance
+2019-11-18-115828  -- BinCard
+2019-11-18-115828  -- sp_Save_GoodsReceiveConfirm
+2019-11-18-115828  -- Start ex Rollback Cannot insert the value NULL into column 'ProductConversion_Id', table '@GoodsReceiveItemLocation'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+2019-11-18-115829  -- Start ex Rollback Cannot insert the value NULL into column 'ProductConversion_Id', table '@GoodsReceiveItemLocation'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+2019-11-18-140835  -- Start
+2019-11-18-140839  -- chkStatus_true
+2019-11-18-140839  -- sp_GetTagItem_GrConfirm
+2019-11-18-142342  -- Start
+2019-11-18-142343  -- chkStatus_true
+2019-11-18-142344  -- sp_GetTagItem_GrConfirm
+2019-11-18-142718  -- Start
+2019-11-18-142720  -- chkStatus_true
+2019-11-18-142720  -- sp_GetTagItem_GrConfirm
+2019-11-18-150205  -- Start
+2019-11-18-150207  -- chkStatus_true
+2019-11-18-150208  -- sp_GetTagItem_GrConfirm
+2019-11-18-150316  -- Start
+2019-11-18-150317  -- chkStatus_true
+2019-11-18-150318  -- sp_GetTagItem_GrConfirm
+2019-11-18-150441  -- Start
+2019-11-18-150441  -- chkStatus_true
+2019-11-18-150441  -- sp_GetTagItem_GrConfirm
+2019-11-18-153432  -- Start
+2019-11-18-153433  -- chkStatus_true
+2019-11-18-153433  -- sp_GetTagItem_GrConfirm
+2019-11-18-153438  -- Start ex Rollback String '20191118000000' was not recognized as a valid DateTime.
+2019-11-18-153521  -- Start
+2019-11-18-153522  -- chkStatus_true
+2019-11-18-153522  -- sp_GetTagItem_GrConfirm
+2019-11-18-153623  -- Start ex Rollback String '20191118000000' was not recognized as a valid DateTime.
+2019-11-18-153631  -- Start
+2019-11-18-153631  -- chkStatus_true
+2019-11-18-153631  -- sp_GetTagItem_GrConfirm
+2019-11-18-153910  -- Start
+2019-11-18-153912  -- chkStatus_true
+2019-11-18-153912  -- sp_GetTagItem_GrConfirm
+2019-11-18-154008  -- Clear UserAssign
+2019-11-18-154012  -- GoodsReceiveItemLocation
+2019-11-18-154012  -- BinBalance
+2019-11-18-154012  -- BinCard
+2019-11-18-154012  -- sp_Save_GoodsReceiveConfirm
+2019-11-18-165157  -- Start
+2019-11-18-165158  -- chkStatus_true
+2019-11-18-165158  -- sp_GetTagItem_GrConfirm
+2019-11-18-165225  -- Clear UserAssign
+2019-11-18-165228  -- GoodsReceiveItemLocation
+2019-11-18-165235  -- BinBalance
+2019-11-18-165236  -- BinCard
+2019-11-18-165236  -- sp_Save_GoodsReceiveConfirm
+2019-11-18-165352  -- Start
+2019-11-18-165352  -- chkStatus_true
+2019-11-18-165352  -- sp_GetTagItem_GrConfirm
+2019-11-18-165411  -- Clear UserAssign
+2019-11-18-165412  -- GoodsReceiveItemLocation
+2019-11-18-165413  -- BinBalance
+2019-11-18-165413  -- BinCard
+2019-11-18-165413  -- sp_Save_GoodsReceiveConfirm
+2019-11-18-170013  -- Start
+2019-11-18-170016  -- chkStatus_true
+2019-11-18-170016  -- sp_GetTagItem_GrConfirm
+2019-11-18-170029  -- Clear UserAssign
+2019-11-18-170032  -- GoodsReceiveItemLocation
+2019-11-18-170032  -- BinBalance
+2019-11-18-170032  -- BinCard
+2019-11-18-170033  -- sp_Save_GoodsReceiveConfirm
+2019-11-18-174845  -- Start
+2019-11-18-174845  -- chkStatus_true
+2019-11-18-174845  -- sp_GetTagItem_GrConfirm
+2019-11-18-174848  -- Clear UserAssign
+2019-11-18-174848  -- GoodsReceiveItemLocation
+2019-11-18-174848  -- BinBalance
+2019-11-18-174848  -- BinCard
+2019-11-18-174848  -- sp_Save_GoodsReceiveConfirm
+2019-11-18-174934  -- Start
+2019-11-18-174934  -- chkStatus_true
+2019-11-18-174934  -- sp_GetTagItem_GrConfirm
+2019-11-18-174937  -- Clear UserAssign
+2019-11-18-174937  -- GoodsReceiveItemLocation
+2019-11-18-174937  -- BinBalance
+2019-11-18-174937  -- BinCard
+2019-11-18-174937  -- sp_Save_GoodsReceiveConfirm
