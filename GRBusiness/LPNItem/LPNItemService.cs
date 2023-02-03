@@ -1603,7 +1603,7 @@ namespace GRBusiness.LPNItem
                                             string cmd1 = "";
                                             string cmd2 = "";
                                             string cmd3 = "";
-                                            cmd1 = "  INSERT INTO  WMSDB_AMZ_Master_V3..tmp_SuggestLocationPutAway ";
+                                            cmd1 = "  INSERT INTO  WMSDB_Master..tmp_SuggestLocationPutAway ";
                                             cmd1 += "            ([Temp_Index]						 ";
                                             cmd1 += "            ,[PalletID]						 ";
                                             cmd1 += "            ,[Location_Index]					 ";
@@ -1626,7 +1626,7 @@ namespace GRBusiness.LPNItem
                                             olog.logging("SugesstionLocation", "ExecuteSqlCommand cmd1 : " + cmd1);
 
 
-                                            cmd2 += "    UPdate  WMSDB_AMZ_Master_V3..tmp_SuggestLocationPutAway   set ";
+                                            cmd2 += "    UPdate  WMSDB_Master..tmp_SuggestLocationPutAway   set ";
                                             cmd2 += "  [Location_Name] = [Location_Name] ";
                                             cmd2 += " WHERE Location_Index = '" + Location_Index.ToString() + "'";
 
@@ -1677,7 +1677,7 @@ namespace GRBusiness.LPNItem
 
 
 
-                                                cmd3  = "  delete  WMSDB_AMZ_Master_V3..tmp_SuggestLocationPutAway    ";
+                                                cmd3  = "  delete  WMSDB_Master..tmp_SuggestLocationPutAway    ";
                                                 cmd3 += " WHERE Temp_Index = '" + Temp_Index.ToString() + "'";
 
                                                 olog.logging("SugesstionLocation", "ExecuteSqlCommand cmd3 : " + cmd3);
